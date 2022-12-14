@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T13:32:44.435Z" agent="5.0 (Windows)" version="20.7.2" etag="kUwKAfIq3EQor_k2AIMh" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T14:04:07.524Z" agent="5.0 (Windows)" version="20.7.2" etag="B6IPCnPoYiPxEqMdJ5BB" type="github">
   <diagram id="tX_K8DnK18EPYIjGrCXY" name="第 1 页">
     <mxGraphModel dx="1216" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,10 +113,10 @@
         <mxCell id="nGxhTOHd3QBVIAoaaXD4-30" value="打印分类统计表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="524" y="298" width="45" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="nGxhTOHd3QBVIAoaaXD4-31" value="打印考生名单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nGxhTOHd3QBVIAoaaXD4-31" value="汇总考生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="633" y="410" width="45" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="nGxhTOHd3QBVIAoaaXD4-32" value="汇总考生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nGxhTOHd3QBVIAoaaXD4-32" value="打印考生名单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="633" y="298" width="45" height="81" as="geometry" />
         </mxCell>
         <mxCell id="nGxhTOHd3QBVIAoaaXD4-33" value="打印通知单表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
