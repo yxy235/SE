@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T12:21:14.527Z" agent="5.0 (Windows)" etag="8fVxAgAsItJm1mL_yJF7" version="20.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-14T12:24:37.895Z" agent="5.0 (Windows)" etag="hIOVafUwwV6qQH-xzX9I" version="20.7.2" type="github">
   <diagram id="nNJ1jZ-xoB6Q-V_5DmPo" name="第 1 页">
     <mxGraphModel dx="1723" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -185,13 +185,6 @@
             <Array as="points">
               <mxPoint x="626" y="688" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="d8HS5hIyM-DUeiwJt4Vd-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fillColor=#FF0808;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="420" y="410" as="sourcePoint" />
-            <mxPoint x="500" y="410" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="d8HS5hIyM-DUeiwJt4Vd-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fillColor=#FF0000;strokeColor=#FF0000;" edge="1" parent="1">
