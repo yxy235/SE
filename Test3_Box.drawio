@@ -1,1 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T11:51:57.628Z" agent="5.0 (Windows)" version="20.7.4" etag="eaNnOVTaAq81S1H1XO2X" type="github"><diagram id="Z7P24HNV5a72xfGwCnaq">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-21T12:10:16.602Z" agent="5.0 (Windows)" version="20.7.4" etag="8eH0wHft45n5CDFQEOaO" type="github">
+  <diagram id="wCP1-nGokBq16qYbPJAe" name="第 1 页">
+    <mxGraphModel dx="343" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-16" value="输入A[1]到A[10]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-17" value="&lt;div&gt;max1 = A[1], max2 = A[2]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-18" value="i = 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="210" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="270" as="sourcePoint" />
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wtoRpdF6PuLOdgHuTinv-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="430" as="sourcePoint" />
+            <mxPoint x="260" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-23" value="i &amp;lt;= 10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-25" value="A[i] &amp;gt; max1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="1" y="-36" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="300" as="sourcePoint" />
+            <mxPoint x="490" y="270" as="targetPoint" />
+            <mxPoint x="5" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-27" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wtoRpdF6PuLOdgHuTinv-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="300" as="sourcePoint" />
+            <mxPoint x="320" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-30" value="&lt;div&gt;T&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="254" y="276" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-31" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="466" y="276" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-33" value="&lt;div&gt;max2 = max1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-34" value="&lt;div&gt;max1 = A[i]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="330" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-35" value="A[i] &amp;gt; max2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.808;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wtoRpdF6PuLOdgHuTinv-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="461" y="330" as="sourcePoint" />
+            <mxPoint x="491" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.183;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="wtoRpdF6PuLOdgHuTinv-35" parent="1" source="wtoRpdF6PuLOdgHuTinv-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="331" as="sourcePoint" />
+            <mxPoint x="429" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-38" value="&lt;div&gt;T&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="361" y="305" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-39" value="F" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="468" y="306" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-40" value="&lt;div&gt;max2 = A[i]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="330" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="330" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-44" value="i = i + 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wtoRpdF6PuLOdgHuTinv-60" value="输出max1, max2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="255" y="430" width="235" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
