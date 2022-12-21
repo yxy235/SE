@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T11:52:41.483Z" agent="5.0 (Windows)" version="20.7.4" etag="B4QJYRpT2GiyQNy5mBt6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T12:01:10.665Z" agent="5.0 (Windows)" version="20.7.4" etag="XYS5btGiTwmCIvE2yMui" type="github">
   <diagram id="yQ2n4hcXY9rUvDPf7EE_" name="第 1 页">
     <mxGraphModel dx="563" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
         <mxCell id="MxADKtflXOVgH9QeLRlx-16" value="A[i] &amp;gt; max2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="476" y="556" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MxADKtflXOVgH9QeLRlx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxADKtflXOVgH9QeLRlx-17" target="MxADKtflXOVgH9QeLRlx-25">
+        <mxCell id="MxADKtflXOVgH9QeLRlx-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxADKtflXOVgH9QeLRlx-51" target="MxADKtflXOVgH9QeLRlx-25">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="274" y="614" as="sourcePoint" />
             <mxPoint x="374" y="756" as="targetPoint" />
@@ -71,7 +71,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MxADKtflXOVgH9QeLRlx-17" value="&lt;div&gt;max2 = max1;&lt;/div&gt;&lt;div&gt;max1 = A[i]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MxADKtflXOVgH9QeLRlx-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MxADKtflXOVgH9QeLRlx-17" target="MxADKtflXOVgH9QeLRlx-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxADKtflXOVgH9QeLRlx-17" value="&lt;div&gt;max2 = max1&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="541" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxADKtflXOVgH9QeLRlx-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
@@ -133,6 +136,9 @@
         </mxCell>
         <mxCell id="MxADKtflXOVgH9QeLRlx-46" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="324" y="950" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxADKtflXOVgH9QeLRlx-51" value="&lt;div&gt;max1 = A[i]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
