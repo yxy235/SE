@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T11:05:27.897Z" agent="5.0 (Windows)" version="20.7.4" etag="eVPlju1IK9gXS5gjE6HE" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T11:07:37.066Z" agent="5.0 (Windows)" version="20.7.4" etag="WQN2D--Q4cwVomwcc42J" type="github">
   <diagram id="yQ2n4hcXY9rUvDPf7EE_" name="第 1 页">
     <mxGraphModel dx="1034" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,23 +19,29 @@
         <mxCell id="MxADKtflXOVgH9QeLRlx-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MxADKtflXOVgH9QeLRlx-4" target="MxADKtflXOVgH9QeLRlx-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MxADKtflXOVgH9QeLRlx-4" value="max1=A[1], max2=A[2]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MxADKtflXOVgH9QeLRlx-4" value="&lt;div&gt;max1 = A[1], &lt;br&gt;&lt;/div&gt;&lt;div&gt;max2 = A[2]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxADKtflXOVgH9QeLRlx-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MxADKtflXOVgH9QeLRlx-5" target="MxADKtflXOVgH9QeLRlx-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MxADKtflXOVgH9QeLRlx-5" value="i=2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MxADKtflXOVgH9QeLRlx-5" value="i = 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MxADKtflXOVgH9QeLRlx-7" value="i&amp;lt;=10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MxADKtflXOVgH9QeLRlx-7" value="i &amp;lt;= 10" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MxADKtflXOVgH9QeLRlx-16" value="A[i] &amp;gt; max1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="470" width="120" height="60" as="geometry" />
+        <mxCell id="MxADKtflXOVgH9QeLRlx-16" value="A[i] &amp;gt; max2" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxADKtflXOVgH9QeLRlx-17" value="&lt;div&gt;max2 = max1;&lt;/div&gt;&lt;div&gt;max1 = A[i]&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="555" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxADKtflXOVgH9QeLRlx-18" value="max2 = A[i]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MxADKtflXOVgH9QeLRlx-19" value="A[i] &amp;gt; max1" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
